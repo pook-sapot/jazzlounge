@@ -1,4 +1,4 @@
-# Jazz Lounge
+# Jazz Lounge - Channel 
 
 https://pook-sapot.github.io/jazzlounge/
 
